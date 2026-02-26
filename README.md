@@ -11,7 +11,7 @@
 <!-- Contact Buttons -->
 <div align="center">
 
-<a href="www.linkedin.com/in/balivada-manohar-vikas-05530b367">
+<a href="https://www.linkedin.com/in/balivada-manohar-vikas-05530b367/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
