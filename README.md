@@ -1,4 +1,4 @@
-# Self_Profile
+
 <!-- Animated Name Banner -->
 <div align="center">
 
