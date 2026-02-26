@@ -44,6 +44,21 @@ balivada-manohar-vikas-05530b367">
 
 <!-- Animated Glow Line -->
 <div align="center">
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manoharvikasdata-hue&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manoharvikasdata-hue&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoharvikasdata-hue&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"/>
 
