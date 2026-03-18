@@ -1,10 +1,10 @@
 <h2 align="center">Hi 👋 I'm Manohar Vikas</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="linkedin.com/in/balivada-manohar-vikas-05530b367">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="manohar.vikas.data@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
