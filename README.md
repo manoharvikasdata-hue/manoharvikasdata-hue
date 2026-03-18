@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Azhar Ghafoor</h2>
+<h2 align="center">Hi 👋 I'm Manohar Vikas</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin">
@@ -35,7 +35,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
-</p>
