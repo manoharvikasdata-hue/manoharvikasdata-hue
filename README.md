@@ -3,7 +3,7 @@
 
 <!-- ROLE ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=520&lines=Data+Analyst+→+ML+Engineer;AI+%7C+Machine+Learning;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MLOps+Engineer+%7C+Data+Analyst;Building+End-to-End+ML+Systems;Cloud+%7C+Docker+%7C+AWS;Turning+Data+into+Production+Solutions" />
 </p>
 
 <!-- GRADIENT LINE -->
