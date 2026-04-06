@@ -21,8 +21,6 @@
 <!-- TECH STACK (CLEAN & FOCUSED) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy" />
   <img src="https://skillicons.dev/icons?i=sklearn" />
 </p>
 
